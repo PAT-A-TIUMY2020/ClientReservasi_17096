@@ -8,3 +8,5 @@ C:\Users\My ASUS\source\repos\ClientReservasi-17096\ClientReservasi-17096\obj\De
 C:\Users\My ASUS\source\repos\ClientReservasi-17096\ClientReservasi-17096\obj\Debug\ClientReservasi-17096.csproj.CoreCompileInputs.cache
 C:\Users\My ASUS\source\repos\ClientReservasi-17096\ClientReservasi-17096\obj\Debug\ClientReservasi-17096.exe
 C:\Users\My ASUS\source\repos\ClientReservasi-17096\ClientReservasi-17096\obj\Debug\ClientReservasi-17096.pdb
+C:\Users\My ASUS\source\repos\ClientReservasi-17096\ClientReservasi-17096\obj\Debug\ClientReservasi_17096.Register.resources
+C:\Users\My ASUS\source\repos\ClientReservasi-17096\ClientReservasi-17096\obj\Debug\ClientReservasi_17096.Login.resources
